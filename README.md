@@ -1,0 +1,1 @@
+This is a fictional shopping page for the mining company Deep Rock Galactic. This web page was created using the Bootstrap CSS framework in order to give myself hands-on experience with using this framework.
