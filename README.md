@@ -20,6 +20,6 @@ Deep-Rock-Galactic-Equipment-Supplier-Page-Bootstrap/
 ├    ├─ minigun.png
 ├    └─ oilyoafs.jpg
 ├─ README.md
-├─ index.html
-└─ style.css
+├─ index.html                                          # Landing page.
+└─ style.css                                           # Styling for the page.
 ```
