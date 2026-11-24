@@ -10,16 +10,16 @@ A preview of what this project looks like when deployed can be viewed on Vercel 
 
 ## Project Structure
 ```
-Deep-Rock-Galactic-Equipment-Supplier-Page-Bootstrap/<br>
-└─images/<br>                                              # Images used in the application.
-├    ├─ Mainbackground.jpg<br>
-├    ├─ blackoutstout.webp<br>
-├    ├─ drglogo.png<br>
-├    ├─ galaxymap.jpg<br>
-├    ├─ kneepads.jpg<br>
-├    ├─ minigun.png<br>
-├    └─ oilyoafs.jpg<br>
-├─ README.md<br>
-├─ index.html<br>
-└─ style.css<br>
+Deep-Rock-Galactic-Equipment-Supplier-Page-Bootstrap/
+└─images/                                              # Images used in the application.
+├    ├─ Mainbackground.jpg
+├    ├─ blackoutstout.webp
+├    ├─ drglogo.png
+├    ├─ galaxymap.jpg
+├    ├─ kneepads.jpg
+├    ├─ minigun.png
+├    └─ oilyoafs.jpg
+├─ README.md
+├─ index.html
+└─ style.css
 ```
