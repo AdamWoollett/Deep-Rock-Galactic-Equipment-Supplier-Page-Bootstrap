@@ -9,15 +9,17 @@ A preview of what this project looks like when deployed can be viewed on Vercel 
 - Bootstrap CSS
 
 ## Project Structure
+```
 Deep-Rock-Galactic-Equipment-Supplier-Page-Bootstrap/<br>
-└─images/<br>
-&emsp;&emsp;├─ Mainbackground.jpg<br>
-&emsp;&emsp;├─ blackoutstout.webp<br>
-&emsp;&emsp;├─ drglogo.png<br>
-&emsp;&emsp;├─ galaxymap.jpg<br>
-&emsp;&emsp;├─ kneepads.jpg<br>
-&emsp;&emsp;├─ minigun.png<br>
-&emsp;&emsp;└─ oilyoafs.jpg<br>
+└─images/<br>                                              # Images used in the application.
+├    ├─ Mainbackground.jpg<br>
+├    ├─ blackoutstout.webp<br>
+├    ├─ drglogo.png<br>
+├    ├─ galaxymap.jpg<br>
+├    ├─ kneepads.jpg<br>
+├    ├─ minigun.png<br>
+├    └─ oilyoafs.jpg<br>
 ├─ README.md<br>
 ├─ index.html<br>
 └─ style.css<br>
+```
